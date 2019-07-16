@@ -1,9 +1,15 @@
+扫码加微信，备注微人事，进群讨论。
+
+![](http://www.javaboy.org/images/weixin.png)
+
 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。  
 
 
 项目地址：[https://github.com/lenve/vhr](https://github.com/lenve/vhr)   
 
->原本计划把项目跑起来放到网上供小伙伴们查看，但是之前买服务器为了省钱，内存只有512M，两个应用跑不起来(已经有一个[V部落开源项目](https://github.com/lenve/VBlog)在运行)，因此小伙伴们只能将就看一下下面的截图了，文末有部署教程，部署到本地也可以查看完整效果。    
+>原本计划把项目跑起来放到网上供小伙伴们查看，但是之前买服务器为了省钱，内存只有512M，两个应用跑不起来(已经有一个[V部落开源项目](https://github.com/lenve/VBlog)在运行)，因此小伙伴们只能将就看一下下面的截图了，文末有部署教程，部署到本地也可以查看完整效果。
+
+- [项目部署视频教程](https://mp.weixin.qq.com/s/qN01Le434FWom0c3jqiQmA)
 
 
 # tips 
@@ -232,7 +238,7 @@ npm run build
 
 # 其他资料
 
-关注公众号**牧码小子**，专注于 Spring Boot+微服务，定期视频教程分享，关注后回复 Java ，领取松哥为你精心准备的 Java 干货！
+关注公众号**江南一点雨**，专注于 Spring Boot+微服务，定期视频教程分享，关注后回复 Java ，领取松哥为你精心准备的 Java 干货！
 
 ![公众号二维码](http://www.javaboy.org/images/sb/javaboy.jpg)  
 
